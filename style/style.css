@@ -92,7 +92,7 @@ section.image > p {
     background-color: rgba(25, 25, 25, 0.333);
     display: inline-block;
     /*
-    box inline adapta-se ao tamanho do conteúdo
+    box inline irá adaptar-se ao tamanho do conteúdo independentemente do tamanho da tela
     */
     padding: 5px;
     text-shadow: 1px 1px 0px black;
